@@ -1,0 +1,104 @@
+.movieSearch{
+
+    width: 100%;
+    display: inline-flex;
+    margin-top: 30px;
+}
+html {
+    scroll-behavior: smooth;
+  }
+.searchBtn{
+    height: fit-content;
+}
+
+#search-title{
+    width: 79%;
+    margin-left: 1px;
+}
+#error-msg{
+    font-size: x-large;
+}
+body{
+    background-color: #1F1F1F !important;
+}
+span{
+    color:white;
+}
+.white-text{
+    color:white;
+}
+.blue-text{
+    color:#578EC0;
+    font-weight: bold;
+    display: flex;
+    flex-wrap: wrap;
+   
+}
+.marginTop50{
+    margin-top:50px;
+}
+hr{
+    margin-top: 10px !important;
+    margin-bottom: 10px !important;
+}
+.image{
+    display: table;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    margin-top: 5px;
+}
+
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+    border-radius: 50%;
+  }
+  
+  .fa:hover {
+      opacity: 0.7;
+  }
+  
+  .fa-facebook {
+    background: #3B5998;
+    color: white;
+  }
+  
+  .fa-twitter {
+    background: #55ACEE;
+    color: white;
+  }
+  
+  .fa-google {
+    background: #dd4b39;
+    color: white;
+  }
+
+  .fa-instagram {
+    background: #125688;
+    color: white;
+  }
+  
+  .fa-pinterest {
+    background: #cb2027;
+    color: white;
+  }
+
+  .alignCenter{
+    display: block;
+    margin-left: auto !important;
+    margin-right: auto !important;
+    width: 26%;
+  }
+
+  .text-style{
+    border: 1px solid #2A6396;
+    width: fit-content;
+    background-color: #2A6396;
+    padding: 10px;
+    border-radius: 10px;
+  }
